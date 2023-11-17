@@ -1,0 +1,424 @@
+body{
+    background-color: rgb(199, 199, 199);
+    margin: 0px;
+    padding: 0px;
+}
+
+.principal{
+width: 360px;
+height: 740px;
+margin: auto;
+background-color: cadetblue;
+}
+.navegação{
+    width: 360px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.texto001{
+width: 70%;
+height: 200px;
+margin: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+font-size: 30px;
+font-family: 'Cutive Mono', monospace;
+color: aliceblue;
+}
+.area001{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(22, 18, 18);
+    flex-direction: column;
+    margin: auto;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 12px 11px 30px 3px #224549;
+}
+.area002{
+    width: 200px;
+    height: 290px;
+    background-color: aliceblue;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-top: -70px;
+    background-image: url(/Imagens/besouro-azul.webp);
+    background-size: cover;
+}
+.texto002{
+    width: 70%;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.botão{
+color: rgb(255, 255, 255);
+margin-left: 30px;
+font-size: 20px;
+text-decoration: none;
+}
+.botão:hover{
+    color: rgb(232, 247, 33);
+    font-weight: bold;
+}
+.principal2{
+    width: 360px;
+    height: 1400px;
+    background-color: cadetblue;
+    margin: auto;
+    margin-top: -21px;
+}
+.caixa{
+    width: 1000px;
+    height: 310px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ca1{
+    width: 200px;
+    height: 290px;
+    background-color: black;
+    border-radius: 20px;
+    background-image: url(/Imagens/loki.jpg);
+    background-size: cover;
+    box-shadow: 12px 11px 30px 3px #224549;
+    margin-left: -600px
+}
+.ca2{
+    width: 200px;
+    height: 290px;
+    background-color: black;
+    border-radius: 20px;
+    background-image: url(/Imagens/you.jpg);
+    background-size: cover;
+    box-shadow: 12px 11px 30px 3px #224549;
+    margin-top: 650px;
+    margin-left: -1590px
+}
+.ca3{
+    width: 200px;
+    height: 290px;
+    background-color: black;
+    border-radius: 20px;
+    background-image: url(/Imagens/cidade\ invi.jpg);
+    background-size: cover;
+    box-shadow: 12px 11px 30px 3px #224549;
+    margin-top: 1300px;
+    margin-left: -1600px;
+}
+.caixa3{
+    width: 300px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 700px;
+}
+.letras{
+    font-size: 25px;
+    font-family: 'Cutive Mono', monospace;
+}
+.caixa4{
+    height: 90px;
+    width: 330px;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bolinhas{
+    background-color: darkgray;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    background-image: url(/Imagens/yout.jpg);
+    background-size: cover;
+}
+.bolinhas2{
+    background-color: darkgray;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    background-image: url(/Imagens/globo.jpg);
+    background-size: cover;
+}.bolinhas3{
+    background-color: darkgray;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    background-image: url(/Imagens/net.png);
+    background-size: cover;
+}
+.principal3{
+    width: 360px;
+    height: 1400px;
+    background-color: cadetblue;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.caixa5{
+width: 300px;
+height: 600px;
+background-color: rgb(27, 27, 26);
+margin: auto;
+margin-top: 60px;
+display: flex;
+align-items: center;
+border-radius: 20px;
+box-shadow: 12px 11px 30px 3px #224549;
+}
+.caixa6{
+width: 230px;
+height: 230px;
+background-color: aliceblue;
+margin-left: 50px;
+border-radius: 20px;
+background-image: url(/Imagens/one-piece.webp);
+background-size: cover;
+margin-top: 250px;
+}
+.texto005{
+width: 400px;
+height: 100px;
+margin-left: 30px;
+margin-top: 30px;
+}
+.texto006{
+font-size: 25px;
+font-family: 'Cutive Mono', monospace;
+color: white;
+margin-top: 50px;
+}
+.caixa7{
+width: 200px;
+height: 250px;
+background-color: aliceblue;
+margin-left: 70px;
+margin-top: 100px;
+border-radius: 20px;
+background-image: url(/Imagens/sete\ pecados.webp);
+box-shadow: 12px 11px 30px 3px #224549;
+background-size: cover;
+}
+.caixa8{
+height: 30px;
+width: 1000px;
+background-color: rgb(255, 255, 255);
+margin-top: 300px;
+display: flex;
+}
+.caixa9{
+height: 30px;
+width: 360px;
+background-color: darkblue;
+}
+.letras1{
+width: 300px;
+height: 200px;
+margin-left: -230px;
+color: white;
+font-family: 'Cutive Mono', monospace;
+margin-top: -240px;
+font-size: 27px;
+}
+
+/* X-Large (Aplicacao para desktops. 1200px and up)*/
+
+@media(min-width: 1200px){
+    .principal{
+        width: 1000px;
+        height: 700px;
+        margin: auto;
+background-color: cadetblue;
+    }
+    .navegação{
+        width: 100%;
+    }
+    .texto001{
+        height: 250px;
+    }
+    .texto002{
+     width: 40%;
+     height: 260px;
+     margin-top: 90px;
+    }
+    .area001{
+        width: 900px;
+        height: 300px;
+        flex-direction: row;
+    }
+    .area002{
+        width: 40%;
+        height: 260px;
+        margin-top: 20px;
+    }
+    .principal2{
+        width: 1000px;
+        height: 700px;
+        background-color: cadetblue;
+        margin: auto;
+        margin-top: -21px;
+    }
+    .caixa{
+        width: 1000px;
+        height: 310px;
+        display: flex;
+        flex-direction: row;
+    }
+    .ca1{
+        width: 200px;
+        height: 290px;
+        background-color: azure;
+  margin: auto;
+
+    }
+    .ca2{
+        width: 200px;
+        height: 290px;
+        background-color: azure;
+        margin: auto;
+      
+
+    }
+    .ca3{
+        width: 200px;
+        height: 290px;
+        background-color: azure;
+        margin: auto;
+
+    }
+    .caixa3{
+        width: 300px;
+        height: 200px;
+        margin-left: 700px;
+        margin-top: 30px;
+    }
+    .letras{
+        font-size: 25px;
+        font-family: 'Cutive Mono', monospace;
+    }
+    .caixa4{
+        height: 90px;
+        width: 330px;
+        margin-left: 50px;
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .bolinhas{
+        background-color: darkgray;
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+        background-image: url(/Imagens/yout.jpg);
+        background-size: cover;
+    }
+    .bolinhas2{
+        background-color: darkgray;
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+        background-image: url(/Imagens/globo.jpg);
+        background-size: cover;
+    }.bolinhas3{
+        background-color: darkgray;
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+        background-image: url(/Imagens/net.png);
+        background-size: cover;
+    }
+    .principal3{
+        width: 1000px;
+        height: 700px;
+        background-color: cadetblue;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .caixa5{
+    width: 800px;
+    height: 300px;
+    background-color: rgb(27, 27, 26);
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 12px 11px 30px 3px #224549;
+    }
+   .caixa6{
+    width: 230px;
+    height: 230px;
+    background-color: aliceblue;
+    margin-left: 50px;
+    border-radius: 20px;
+    background-image: url(/Imagens/one-piece.webp);
+    background-size: cover;
+    margin-top: -30px;
+   }
+   .texto005{
+    width: 400px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: -20px;
+   }
+   .texto006{
+    font-size: 25px;
+    font-family: 'Cutive Mono', monospace;
+    color: white;
+    margin-top: 50px;
+   }
+   .caixa7{
+    width: 200px;
+    height: 250px;
+    background-color: aliceblue;
+    margin-left: 250px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-image: url(/Imagens/sete\ pecados.webp);
+    box-shadow: 12px 11px 30px 3px #224549;
+    background-size: cover;
+   }
+   .caixa8{
+    height: 30px;
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    display: flex;
+   }
+   .caixa9{
+    height: 30px;
+    width: 333px;
+    background-color: darkblue;
+   }
+   .caixa10{
+    height: 30px;
+    width: 333px;
+    background-color: darkcyan;
+   }
+   .caixa11{
+    height: 30px;
+    width: 333px;
+    background-color: darkblue;
+   }
+   .letras1{
+    width: 300px;
+    height: 200px;
+    margin-left: 50px;
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    margin-top: -20px;
+    font-size: 27px;
+   }
+}
